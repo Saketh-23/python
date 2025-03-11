@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langgraph
+sqlalchemy
+python-docx
+pillow
+requests
+python-dotenv
